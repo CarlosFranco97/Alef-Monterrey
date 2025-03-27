@@ -27,7 +27,7 @@ Código modular y escalable para futuras mejoras
 ## Instalación y uso
 
 1. Clonar el repositorio:
-git clone https://github.com/tu-usuario/alef-monterrey.git
+git clone https://github.com/carlosfranco97/alef-monterrey.git
 
 2. Acceder al directorio del proyecto:
 cd alef-monterrey
